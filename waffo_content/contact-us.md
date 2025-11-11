@@ -1,10 +1,10 @@
 ---
-title: "Waffo - Payment, Tax & Subscriptions for AI Companies"
+title: "Waffo - Payment, Tax & Subscriptions for AI, SaaS and Digital native Companies"
 description: "All-in-one solution for running your AI business with global payments, tax compliance, fraud protection, and more."
 source: "contact-us.html"
 ---
 
-# Waffo - Payment, Tax & Subscriptions for AI Companies
+# Waffo - Payment, Tax & Subscriptions for AI, SaaS and Digital Native Companies
 
 For Sales Inquiries
 

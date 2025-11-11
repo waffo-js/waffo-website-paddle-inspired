@@ -5,9 +5,9 @@
 ## 文件列表
 
 - [About Us - Waffo](about-us.md)
-- [Waffo - Payment, Tax & Subscriptions for AI Companies](contact-us.md)
+- [Waffo - Payment, Tax & Subscriptions for AI, SaaS and Digital native Companies](contact-us.md)
 - [Help Center - Waffo](help-center.md)
-- [Waffo - Payment, Tax & Subscriptions for AI Companies](index.md)
+- [Waffo - Payment, Tax & Subscriptions for AI, SaaS and Digital native Companies](index.md)
 - [Privacy Policy - Waffo](privacy-policy.md)
 - [Sales - Waffo](sales.md)
 - [Subscription - Waffo](subscription.md)
