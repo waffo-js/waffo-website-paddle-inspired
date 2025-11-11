@@ -1,0 +1,21 @@
+---
+title: "Payments articles"
+description: "Browse information, inspiration, and insights from Paddle's team and network"
+source: "resources/topic/payments.html"
+---
+
+# Payments articles
+
+Live webinar
+
+Find out what’s working and what’s not for app growth, and how to use external payments to capture intent and drive growth in Q5
+
+[Register now](https://www.paddle.com/events/webinars/why-q5-is-the-underrated-opportunity-in-mobile-app-growth?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2025_q4_core_revenuecat_webinar_18nov&utm_content=homepage-banner)
+
+# Payments
+
+[Announcements](/resources/topic/announcements)[Developers](/resources/topic/developers)[Metrics](/resources/topic/metrics)[Mobile](/resources/topic/mobile)[Payments](/resources/topic/payments)[Product news](/resources/topic/product-news)
+
+[Nov 4, 2025![](https://images.prismic.io/paddle/14c59091-98b1-430c-a3be-14a3dbd37225_Paddle-hand-01.png?auto=format%2Ccompress&rect=0%2C0%2C1280%2C629&w=1080&fit=max)Alternative payment methods: why SaaS and app companies need them for growthPaddle](/blog/alternative-payment-methods)[Oct 22, 2024![](https://images.prismic.io/paddle/4e346960-3dcb-48f0-8958-a2e5e1fc118c_abstract-paddle-merchant+of+record.png?auto=format%2Ccompress&fit=max&w=1080)Payfac vs merchant of recordPaddle](/blog/payfac-vs-merchant-of-record)[Oct 22, 2024![](https://images.prismic.io/paddle/4e346960-3dcb-48f0-8958-a2e5e1fc118c_abstract-paddle-merchant+of+record.png?auto=format%2Ccompress&fit=max&w=1080)Seller of Record vs Merchant of RecordPaddle](/blog/merchant-of-record-vs-seller-of-record)[Aug 1, 2024![](https://images.prismic.io/paddle/Z-VWIXdAxsiBv_WW_abstract-paddle-merchant-of-record.png?auto=format%2Ccompress&rect=0%2C1%2C1980%2C949&w=1080&fit=max)What is a Merchant of Record and why use an MoR as a solution for payments and sales tax?Paddle](/blog/what-is-merchant-of-record)[Payments![](https://images.prismic.io/paddle/4e6d17a0-d2da-4777-8c8c-95945353b442_platform-invoice-hero.png?auto=format%2Ccompress&fit=max&w=1080)What are B2B payments & how they differ from B2C [+ top 10 platforms]](/resources/b2b-payments)[Payments![](https://images.prismic.io/paddle/b113fa15-dc6b-45f7-a319-a7a06a08fbb9_abstract-landscape-1.png?auto=format%2Ccompress&fit=max&w=1080)What is recurring payment? Definition, benefits, & strategies](/resources/recurring-payment)[Payments![](https://images.prismic.io/paddle/d68ba02d-f9cd-4b39-9a56-fb78d68d18b2_abstract-payment+processing.png?auto=format%2Ccompress&fit=max&w=1080)Evaluating different types of payment methods: Which ones are right for your business](/resources/payment-methods)[Churn & retention![](https://images.prismic.io/paddle/9f2ac8b0-a780-4b02-b840-1887d0948f93_abstract-overwhelmed.png?auto=format%2Ccompress&fit=max&w=1080)Payment recovery emails: Save 30% of your annual customers](/resources/renewal-recovery-emails)[Go-to-market![](https://images.prismic.io/paddle/893f700a-1ea0-4876-9054-a24bc13e31b2_platform-checkout+2.png?auto=format%2Ccompress&fit=max&w=1080)Checkout flow optimization: how to optimize minimize cart abandonment + increase conversion](/resources/checkout-flow)[Churn & retention![](https://images.prismic.io/paddle/ede79c72-dae2-4801-a8aa-0f64052c92e6_Illustration_Generic_Valuation_funding_2_bg.jpg?auto=format%2Ccompress&fit=max&w=1080)Payment failures: Recover & reduce churn automatically](/resources/payment-failure)[Apr 13, 2022![Local currencies and global payments](https://images.prismic.io/paddle/34c8f1cf-b5c2-4741-a4f5-f389054cdc10_global-payments.png?auto=format%2Ccompress&fit=max&w=1080)How local currencies and payment methods impact revenue growthManuela Pereira](/blog/how-local-currencies-and-payment-methods-impact-growth)[Dec 1, 2021![](https://images.prismic.io/paddle/fe7eaf22-7afd-4801-9240-29486afb9f16_digital-messy+laptop.png?auto=format%2Ccompress&fit=max&w=1080)6 reasons your SaaS payments are failing and what you can do about it Mike Wakeling](/blog/6-reasons-for-low-payment-acceptance-in-saas)
+
+Load more

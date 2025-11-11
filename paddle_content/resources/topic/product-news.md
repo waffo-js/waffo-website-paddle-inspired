@@ -1,0 +1,19 @@
+---
+title: "Product news articles"
+description: "Browse information, inspiration, and insights from Paddle's team and network"
+source: "resources/topic/product-news.html"
+---
+
+# Product news articles
+
+Live webinar
+
+Find out what’s working and what’s not for app growth, and how to use external payments to capture intent and drive growth in Q5
+
+[Register now](https://www.paddle.com/events/webinars/why-q5-is-the-underrated-opportunity-in-mobile-app-growth?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2025_q4_core_revenuecat_webinar_18nov&utm_content=homepage-banner)
+
+# Product news
+
+[Announcements](/resources/topic/announcements)[Developers](/resources/topic/developers)[Metrics](/resources/topic/metrics)[Mobile](/resources/topic/mobile)[Payments](/resources/topic/payments)[Product news](/resources/topic/product-news)
+
+[Nov 6, 2025![Paddle Forward written next to abstract yellow rectangles](https://images.prismic.io/paddle/aQuT-bpReVYa4Gi-_PaddleForward_BlogPost.png?auto=format%2Ccompress&rect=0%2C0%2C2400%2C1260&w=1080&fit=max)Paddle Forward: Fall '25 product updatesPaddle](/blog/paddle-forward-november-2025-product-updates)[Mar 26, 2024![](https://images.prismic.io/paddle/d78f2a3d-76c5-4a9f-a20a-45d054a5be9b_paddle-forward.jpg?auto=format%2Ccompress&fit=max&w=1080)What’s new in Paddle [Q1 2024] - Paddle Forward highlights Lucas Lovell](/blog/paddle-forward-q1-2024-recap)[Feb 20, 2024![](https://images.prismic.io/paddle/1127fce9-3dae-47a4-8eb8-e4026d6abea9_paddle-share-image.png?auto=format%2Ccompress&rect=0%2C0%2C1200%2C628&w=1080&fit=max)Apple DMA Changes - What this means for in-app purchasesMike Wakeling](/blog/apple-dma-changes)[Aug 11, 2023![](https://images.prismic.io/paddle/d78f2a3d-76c5-4a9f-a20a-45d054a5be9b_paddle-forward.jpg?auto=format%2Ccompress&fit=max&w=1080)6 things that happened at Paddle Forward 2023 Emily Whindus](/blog/paddle-forward-2023-roundup)[Jan 4, 2023![](https://images.prismic.io/paddle/c64056ae-af69-480b-b4a3-7cb1b2db3fac_Illustration_Generic_Operations_4_bg.png?auto=format%2Ccompress&fit=max&w=1080)Why Paddle is the all-in-one billing solution for product-led growthEmily Whindus](/blog/all-in-one-billing-solution-for-plg)[Sep 27, 2022![](https://images.prismic.io/paddle/c7151c87-6f2d-4411-b246-7a59483531f4_paddle-acquires-profitwell.png?auto=format%2Ccompress&fit=max&w=1080)Get actionable, accessible SaaS subscription reports - 100% free Neel Desai](/blog/free-actionable-accessible-saas-subscription-reports)[May 18, 2022![](https://images.prismic.io/paddle/9cc55117-785a-4872-b8a2-7a10d10d4615_platform-tax-data.png?auto=format%2Ccompress&fit=max&w=1080)Introducing Paddle's first Vulnerability Disclosure Program (VDP)Jonathan Herd](/blog/introducing-paddles-vulnerability-disclosure-program)[Apr 7, 2022![](https://images.prismic.io/paddle/410bcaa1-30e7-4045-a121-ab8f37daba60_abstract-sand-timer-2.png?auto=format%2Ccompress&fit=max&w=1080)Coming soon: Paddle + ProfitWell Metrics integrationMike Wakeling](/blog/coming-soon-profitwell-metrics-integration)[Jan 7, 2022![Abstract north star stuck in sand](https://images.prismic.io/paddle/b1f9f37a-16d9-48e5-a57e-c6d9251bd06c_abstract-unknown-territory.png?auto=format%2Ccompress&fit=max&w=1080)An update on Paddle In-App Purchase for iOSChristian Owens](/blog/an-update-on-paddle-in-app-purchase-for-ios)[Nov 18, 2021![illustrated globe with currency symbols ](https://images.prismic.io/paddle/1b923d22-936a-414c-a1ea-52fa30a27da9_global-currencies-1.png?auto=format%2Ccompress&fit=max&w=1080)Introducing our newest product updates to help you sell globallyLeah Messenger](/blog/updates-to-help-you-sell-globally)

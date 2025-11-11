@@ -1,0 +1,4 @@
+[submodule "waffo-website"]
+	path = waffo-website
+	url = https://github.com/waffo-com/waffo-website-paddle-inspired.git
+	branch = main

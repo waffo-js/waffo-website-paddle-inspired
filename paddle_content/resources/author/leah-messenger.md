@@ -1,0 +1,21 @@
+---
+title: "Articles by Leah Messenger"
+description: "Browse information, inspiration, and insights from Paddle's team and network"
+source: "resources/author/leah-messenger.html"
+---
+
+# Articles by Leah Messenger
+
+Live webinar
+
+Find out what’s working and what’s not for app growth, and how to use external payments to capture intent and drive growth in Q5
+
+[Register now](https://www.paddle.com/events/webinars/why-q5-is-the-underrated-opportunity-in-mobile-app-growth?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2025_q4_core_revenuecat_webinar_18nov&utm_content=homepage-banner)
+
+# Leah Messenger
+
+[Announcements](/resources/topic/announcements)[Developers](/resources/topic/developers)[Metrics](/resources/topic/metrics)[Mobile](/resources/topic/mobile)[Payments](/resources/topic/payments)[Product news](/resources/topic/product-news)
+
+[Apr 18, 2022![](https://images.prismic.io/paddle/fc2008da-c7af-4e57-9a26-fd227c0a2401_abstract-paddle-hand.png?auto=format%2Ccompress&fit=max&w=1080)5 things to consider when adding a PLG motion to your GTM strategyLeah Messenger](/blog/challenges-of-adding-a-product-led-motion)[Apr 5, 2022![](https://images.prismic.io/paddle/fe10801f-e3c5-4fe9-8d4d-d3d62cc1aed2_paddle-hand-black-and-yellow_1980x950.png?auto=format%2Ccompress&fit=max&w=1080)More than just hype: How to adopt PLG principles to scale quickerLeah Messenger](/blog/how-to-use-plg-to-scale-faster)[Apr 1, 2022![](https://images.prismic.io/paddle/5b4af40c-61b2-4a67-82d5-e641e4fd1be0_abstract-growth.png?auto=format%2Ccompress&fit=max&w=1080)5 hot topics at recent PLG meet-upsLeah Messenger](/blog/product-led-growth-event-learnings)[Mar 29, 2022![](https://images.prismic.io/paddle/76d42d24-a2d1-4336-9e4e-44820c3f898b_styleframe-brand+video+26.png?auto=format%2Ccompress&fit=max&w=1080)Sales-assisted billing: The good, the bad, the uglyLeah Messenger](/blog/sales-assisted-billing-pros-and-cons)[Mar 7, 2022![](https://images.prismic.io/paddle/d2ae4a61-631a-4f64-b464-5e10673773b6_abstract_introspective.png?auto=format%2Ccompress&fit=max&w=1080)10 essential SaaS customer retention metrics you should track for successLeah Messenger](/blog/10-essential-saas-customer-retention-metrics)[Feb 24, 2022![](https://images.prismic.io/paddle/ae175005-3758-4afe-810f-41922eb368b2_abstract-growth.png?auto=format%2Ccompress&fit=max&w=1080)PLG + SLG: Maximize your business growth with a hybrid GTM strategyLeah Messenger](/blog/plg-and-slg-hybrid-growth-strategy)[Feb 22, 2022![](https://images.prismic.io/paddle/fc63f2bb-efa3-4335-bcb2-7d50a08fbf5c_abstract-unknow-territories.png?auto=format%2Ccompress&fit=max&w=1080)5 challenges of adding a sales-led motion to your GTM strategyLeah Messenger](/blog/challenges-of-adding-a-sales-led-motion)[Feb 9, 2022![](https://images.prismic.io/paddle/93ac193d-4cbd-43d4-b924-e9253d910149_abstract_paddle+hand.png?auto=format%2Ccompress&fit=max&w=1080)What is “build-in-public” strategy & why you should careLeah Messenger](/blog/build-in-public-boost-your-engagement)[Dec 22, 2021![](https://images.prismic.io/paddle/62aa52ae-5849-410b-9b54-858e0966e1bb_abstract-mysterious+doors.png?auto=format%2Ccompress&fit=max&w=1080)We see you, 2022: four B2B SaaS trends to keep your eye onLeah Messenger](/blog/b2b-saas-trends-for-2022)[Nov 18, 2021![illustrated globe with currency symbols ](https://images.prismic.io/paddle/1b923d22-936a-414c-a1ea-52fa30a27da9_global-currencies-1.png?auto=format%2Ccompress&fit=max&w=1080)Introducing our newest product updates to help you sell globallyLeah Messenger](/blog/updates-to-help-you-sell-globally)[Nov 15, 2021![](https://images.prismic.io/paddle/6eb4ad59-16fa-427e-84d9-64e8097f2068_styleframe-brand+video+8.png?auto=format%2Ccompress&fit=max&w=1080)Five reasons why self-serve first is a winning approach for customer acquisitionLeah Messenger](/blog/self-serve-first-and-customer-acquisition)[Nov 12, 2021![illustrated woman with blue headset](https://images.prismic.io/paddle/b75769cb-3f39-40cb-b37f-4dbd64592006_characters-paddle+woman-01.png?auto=format%2Ccompress&fit=max&w=1080)5 ways to strengthen your pricing strategy as a dev platformLeah Messenger](/blog/dev-platform-pricing-strategy)
+
+Load more

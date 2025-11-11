@@ -1,0 +1,21 @@
+---
+title: "Valuation & funding articles"
+description: "Browse information, inspiration, and insights from Paddle's team and network"
+source: "resources/topic/valuation.html"
+---
+
+# Valuation & funding articles
+
+Live webinar
+
+Find out what’s working and what’s not for app growth, and how to use external payments to capture intent and drive growth in Q5
+
+[Register now](https://www.paddle.com/events/webinars/why-q5-is-the-underrated-opportunity-in-mobile-app-growth?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2025_q4_core_revenuecat_webinar_18nov&utm_content=homepage-banner)
+
+# Valuation & funding
+
+[Announcements](/resources/topic/announcements)[Developers](/resources/topic/developers)[Metrics](/resources/topic/metrics)[Mobile](/resources/topic/mobile)[Payments](/resources/topic/payments)[Product news](/resources/topic/product-news)
+
+[Dec 13, 2022![](https://images.prismic.io/paddle/048e08c8-31f8-4b91-b348-359c32cdf150_Illustration_Characters_Dashboardteam_bg+copy.jpg?auto=format%2Ccompress&fit=max&w=1080)Bootstrapping vs VC funding: Lessons VC-backed companies can learn from a bootstrapped mindsetChloe Dormand](/blog/bootstrapping-vs-vc-funding)[Valuation & funding![](https://images.prismic.io/paddle/9fa4828e-c80a-4834-9173-b20c208a0943_Illustration_Generic_Valuation_funding_3_bg.jpg?auto=format%2Ccompress&fit=max&w=1080)SaaS funding guide: Types of funding, when you need it, and what investors look for](/resources/saas-funding)[Valuation & funding![](https://images.prismic.io/paddle/fc63f2bb-efa3-4335-bcb2-7d50a08fbf5c_abstract-unknow-territories.png?auto=format%2Ccompress&fit=max&w=1080)What is bootstrapping? Definition, risks and alternatives](/resources/bootstrapping-your-business)[Valuation & funding![](https://images.prismic.io/paddle/62aa52ae-5849-410b-9b54-858e0966e1bb_abstract-mysterious+doors.png?auto=format%2Ccompress&fit=max&w=1080)SaaS valuations: Which metrics to keep track of and how to interpret them](/resources/saas-valuation)[Finance![](https://images.prismic.io/paddle/4e346960-3dcb-48f0-8958-a2e5e1fc118c_abstract-paddle-merchant+of+record.png?auto=format%2Ccompress&fit=max&w=1080)5-step revenue recognition process for subscription businesses](/resources/saas-revenue-recognition)[Aug 19, 2022![](https://images.prismic.io/paddle/fc2008da-c7af-4e57-9a26-fd227c0a2401_abstract-paddle-hand.png?auto=format%2Ccompress&fit=max&w=1080)SaaS due diligence: What VCs are looking forChloe Dormand](/blog/saas-due-diligence-what-vcs-are-looking-for)[Apr 6, 2022![](https://images.prismic.io/paddle/4e346960-3dcb-48f0-8958-a2e5e1fc118c_abstract-paddle-merchant+of+record.png?auto=format%2Ccompress&fit=max&w=1080)SaaS valuations are changing: three key lessons for SaaS foundersAndrew Davies](/blog/saas-valuations-are-changing)[Apr 4, 2022![](https://images.prismic.io/paddle/55d93a29-444f-4111-b11f-050ba2c0180d_abstract-paddle-star.png?auto=format%2Ccompress&fit=max&w=1080)The metrics driving SaaS valuations in 2022Chloe Dormand](/blog/the-metrics-driving-saas-valuations)[Valuation & funding![](https://images.prismic.io/paddle/fe7eaf22-7afd-4801-9240-29486afb9f16_digital-messy+laptop.png?auto=format%2Ccompress&fit=max&w=1080)Seed funding for startups: the ultimate guide](/resources/guide-to-seed-funding-for-startups)[Jan 13, 2022![](https://images.prismic.io/paddle/adcd877a-4c03-46ec-9279-c46b7b81659c_digital_global.png?auto=format%2Ccompress&fit=max&w=1080)When investors care about total addressable market (TAM) and how to expand yoursTodd Gardner](/blog/when-investors-care-about-total-addressable-market)[Jan 5, 2022![](https://images.prismic.io/paddle/4f275e1d-2ddc-4dab-b3da-82b71893f6c5_infographs-paddle+all+in+one.png?auto=format%2Ccompress&fit=max&w=1080)Robust revenue infrastructure increases your SaaS company's valuation at every stageTodd Gardner](/blog/robust-infrastructure-increases-valuation)[Dec 20, 2021![](https://images.prismic.io/paddle/bade00fb-6b2d-4de0-b4d9-2c42d226ff8d_characters-paddle+woman-02.png?auto=format%2Ccompress&fit=max&w=1080)Understanding the VC investment processChloe Dormand](/blog/understanding-the-vc-investment-process)
+
+Load more

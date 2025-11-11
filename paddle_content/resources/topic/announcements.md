@@ -1,0 +1,21 @@
+---
+title: "Announcements articles"
+description: "Browse information, inspiration, and insights from Paddle's team and network"
+source: "resources/topic/announcements.html"
+---
+
+# Announcements articles
+
+Live webinar
+
+Find out what’s working and what’s not for app growth, and how to use external payments to capture intent and drive growth in Q5
+
+[Register now](https://www.paddle.com/events/webinars/why-q5-is-the-underrated-opportunity-in-mobile-app-growth?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2025_q4_core_revenuecat_webinar_18nov&utm_content=homepage-banner)
+
+# Announcements
+
+[Announcements](/resources/topic/announcements)[Developers](/resources/topic/developers)[Metrics](/resources/topic/metrics)[Mobile](/resources/topic/mobile)[Payments](/resources/topic/payments)[Product news](/resources/topic/product-news)
+
+[Jul 29, 2025![Animated globe with shooting stars](https://images.prismic.io/paddle/aIjWlFGsbswqTauS_blthumb-og-2507-protect.png?auto=format%2Ccompress&rect=0%2C0%2C1200%2C630&w=1080&fit=max)How Paddle protects consumers and companies to sell and buy safely onlinePaddle](/blog/how-paddle-helps-you-buy-and-sell-safely-online)[Jul 17, 2025![](https://images.prismic.io/paddle/1127fce9-3dae-47a4-8eb8-e4026d6abea9_paddle-share-image.png?auto=format%2Ccompress&rect=0%2C0%2C1200%2C628&w=1080&fit=max)Paddle raises $25M to accelerate growth and international expansionPaddle](/blog/paddle-raises-25m)[Jun 16, 2025![](https://images.prismic.io/paddle/1127fce9-3dae-47a4-8eb8-e4026d6abea9_paddle-share-image.png?auto=format%2Ccompress&rect=0%2C0%2C1200%2C628&w=1080&fit=max)Paddle reaches agreement with the Federal Trade Commission (FTC)Paddle](/blog/statement-on-ftc-agreement)[Nov 12, 2024![Price Intelligently by Paddle](https://images.prismic.io/paddle/ZzMxv68jQArT0vbf_pi-blog-post-thumbnail.jpg?auto=format%2Ccompress&rect=0%2C0%2C1200%2C628&w=1080&fit=max)An update on Price IntelligentlyJimmy Fitzgerald](/blog/an-update-on-price-intelligently)[Jul 17, 2024![](https://images.prismic.io/paddle/ZpekWx5LeNNTxOsN_Launchpad-demo-day-blog-v2.jpg?auto=format%2Ccompress%3Fauto%3Dcompress%2Cformat&rect=0%2C0%2C1200%2C628&w=1080&fit=max)AI rising stars: The finalists and winners of Paddle’s AI Launchpad Demo Day H1 2024Paddle](/blog/ai-launchpad-demo-day-h1-2024)[Feb 20, 2024![](https://images.prismic.io/paddle/1127fce9-3dae-47a4-8eb8-e4026d6abea9_paddle-share-image.png?auto=format%2Ccompress&rect=0%2C0%2C1200%2C628&w=1080&fit=max)Apple DMA Changes - What this means for in-app purchasesMike Wakeling](/blog/apple-dma-changes)[Dec 14, 2023![](https://images.prismic.io/paddle/1127fce9-3dae-47a4-8eb8-e4026d6abea9_paddle-share-image.png?auto=format%2Ccompress&fit=max&w=1080)Epic Games win vs Google: The shift from App to WebChristian Owens](/blog/epic-games-win-vs-google)[Nov 16, 2023![](https://images.prismic.io/paddle/1127fce9-3dae-47a4-8eb8-e4026d6abea9_paddle-share-image.png?auto=format%2Ccompress&fit=max&w=1080)Supporting the developer ecosystem - Epic Games vs. GoogleChristian Owens](/blog/epic-v-google)[Aug 11, 2023![](https://images.prismic.io/paddle/d78f2a3d-76c5-4a9f-a20a-45d054a5be9b_paddle-forward.jpg?auto=format%2Ccompress&fit=max&w=1080)6 things that happened at Paddle Forward 2023 Emily Whindus](/blog/paddle-forward-2023-roundup)[Apr 20, 2023![](https://images.prismic.io/paddle/17503287-3d9a-482f-8c6d-adab9591665b_Illustration_Generic_Collaboration_bg.jpg?auto=format%2Ccompress&fit=max&w=1080)Paddle CEO Transition: Christian Owens Hands Over to Jimmy FitzgeraldChristian Owens](/blog/the-next-phase-of-paddle)[Mar 23, 2023![](https://images.prismic.io/paddle/6447c1a9-8bf6-44a6-b7bd-e6c7ee60ea5d_Illustration_Generic_Growth_Manleaping_bg.jpg?auto=format%2Ccompress&fit=max&w=1080)Paddle achieves top security and compliance certification: SOC 2 Type 2 auditPaddle](/blog/paddle-achieves-soc-2-type-2-audit)[Mar 13, 2023![](https://images.prismic.io/paddle/71e32959-b438-4ba3-bd60-fe834aa69e11_SVB_LOGO.jpg?auto=format%2Ccompress&fit=max&w=1080)Our statement on Silicon Valley BankChristian Owens](/blog/silicon-valley-bank)
+
+Load more

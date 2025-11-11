@@ -1,0 +1,23 @@
+---
+title: "Manage - Help Center - Paddle"
+description: "Manage ProfitWell Users"
+source: "help/profitwell-metrics/manage.html"
+---
+
+# Manage - Help Center - Paddle
+
+Live webinar
+
+Find out what’s working and what’s not for app growth, and how to use external payments to capture intent and drive growth in Q5
+
+[Register now](https://www.paddle.com/events/webinars/why-q5-is-the-underrated-opportunity-in-mobile-app-growth?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2025_q4_core_revenuecat_webinar_18nov&utm_content=homepage-banner)
+
+[Help](/help)[ProfitWell Metrics](/help/profitwell-metrics)[Manage](/help/profitwell-metrics/manage)
+
+## Manage
+
+Manage ProfitWell Users
+
+[Log into ProfitWell](/help/profitwell-metrics/manage/log-into-profitwell)
+
+[Manage ProfitWell Users](/help/profitwell-metrics/manage/manage-profitwell-users)

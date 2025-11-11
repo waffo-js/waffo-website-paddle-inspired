@@ -1,0 +1,21 @@
+---
+title: "Articles by Paddle"
+description: "Browse information, inspiration, and insights from Paddle's team and network"
+source: "resources/author/paddle.html"
+---
+
+# Articles by Paddle
+
+Live webinar
+
+Find out what’s working and what’s not for app growth, and how to use external payments to capture intent and drive growth in Q5
+
+[Register now](https://www.paddle.com/events/webinars/why-q5-is-the-underrated-opportunity-in-mobile-app-growth?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2025_q4_core_revenuecat_webinar_18nov&utm_content=homepage-banner)
+
+# Paddle
+
+[Announcements](/resources/topic/announcements)[Developers](/resources/topic/developers)[Metrics](/resources/topic/metrics)[Mobile](/resources/topic/mobile)[Payments](/resources/topic/payments)[Product news](/resources/topic/product-news)
+
+[Nov 6, 2025![Paddle Forward written next to abstract yellow rectangles](https://images.prismic.io/paddle/aQuT-bpReVYa4Gi-_PaddleForward_BlogPost.png?auto=format%2Ccompress&rect=0%2C0%2C2400%2C1260&w=1080&fit=max)Paddle Forward: Fall '25 product updatesPaddle](/blog/paddle-forward-november-2025-product-updates)[Nov 4, 2025![](https://images.prismic.io/paddle/14c59091-98b1-430c-a3be-14a3dbd37225_Paddle-hand-01.png?auto=format%2Ccompress&rect=0%2C0%2C1280%2C629&w=1080&fit=max)Alternative payment methods: why SaaS and app companies need them for growthPaddle](/blog/alternative-payment-methods)[Jul 30, 2025![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report Q2 2025: Recovery takes hold as AI fuels growthPaddle](/blog/saas-market-report-q2-2025)[Jul 29, 2025![Animated globe with shooting stars](https://images.prismic.io/paddle/aIjWlFGsbswqTauS_blthumb-og-2507-protect.png?auto=format%2Ccompress&rect=0%2C0%2C1200%2C630&w=1080&fit=max)How Paddle protects consumers and companies to sell and buy safely onlinePaddle](/blog/how-paddle-helps-you-buy-and-sell-safely-online)[Jul 17, 2025![](https://images.prismic.io/paddle/1127fce9-3dae-47a4-8eb8-e4026d6abea9_paddle-share-image.png?auto=format%2Ccompress&rect=0%2C0%2C1200%2C628&w=1080&fit=max)Paddle raises $25M to accelerate growth and international expansionPaddle](/blog/paddle-raises-25m)[Jun 16, 2025![](https://images.prismic.io/paddle/1127fce9-3dae-47a4-8eb8-e4026d6abea9_paddle-share-image.png?auto=format%2Ccompress&rect=0%2C0%2C1200%2C628&w=1080&fit=max)Paddle reaches agreement with the Federal Trade Commission (FTC)Paddle](/blog/statement-on-ftc-agreement)[May 16, 2025![](https://images.prismic.io/paddle/ZjTHNEMTzAJOCg-M_P%26EBogheader.png?auto=format%2Ccompress&rect=0%2C0%2C1200%2C628&w=1080&fit=max)How we’re helping app developers build and launch web checkouts fastPaddle](/blog/web-checkout-tools-ios-apps)[May 2, 2025![](https://images.prismic.io/paddle/aBTFAvIqRLdaB0s6_Applepost.png?auto=format%2Ccompress&rect=0%2C1%2C2400%2C1255&w=1080&fit=max)The Epic vs Apple ruling: A new era of app monetizationPaddle](/blog/apple-vs-epic-app-store-changes)[Apr 30, 2025![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report Q1 2025: Economic uncertainty brings sluggish growthPaddle](/blog/saas-market-report-q1-2025)[Mar 13, 2025![](https://images.prismic.io/paddle/e7a4e8a0-6d25-4204-917e-3c22421e8855_Illustration_Generic_Valuation%26funding_2_bg.png?auto=format%2Ccompress&rect=0%2C0%2C2053%2C1086&w=1080&fit=max)Is the App Store Small Business Program worth it?Paddle](/blog/app-store-small-business-program)[Feb 26, 2025![](https://images.prismic.io/paddle/Z78o5J7c43Q3gQ91_og-pre-1408-metrics.png?auto=format%2Ccompress&rect=0%2C0%2C1200%2C628&w=1080&fit=max)Conversion rate optimization for apps: 9 CRO strategies to boost revenue with Steve YoungPaddle](/blog/app-cro-playbook-for-2025)[Jan 27, 2025![](https://images.prismic.io/paddle/Z5e755bqstJ995dn_Howtoskyrocketyoursubscriptionapp%27sgrowth.png?auto=format%2Ccompress&rect=0%2C0%2C1200%2C628&w=1080&fit=max)Mobile app growth: scaling consumer apps with Phil Carter’s Subscription Value Loop frameworkPaddle](/blog/value-loop-framework-with-phil-carter)
+
+Load more

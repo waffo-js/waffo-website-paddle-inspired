@@ -1,0 +1,21 @@
+---
+title: "Growth articles"
+description: "Browse information, inspiration, and insights from Paddle's team and network"
+source: "resources/topic/growth.html"
+---
+
+# Growth articles
+
+Live webinar
+
+Find out what’s working and what’s not for app growth, and how to use external payments to capture intent and drive growth in Q5
+
+[Register now](https://www.paddle.com/events/webinars/why-q5-is-the-underrated-opportunity-in-mobile-app-growth?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2025_q4_core_revenuecat_webinar_18nov&utm_content=homepage-banner)
+
+# Growth
+
+[Announcements](/resources/topic/announcements)[Developers](/resources/topic/developers)[Metrics](/resources/topic/metrics)[Mobile](/resources/topic/mobile)[Payments](/resources/topic/payments)[Product news](/resources/topic/product-news)
+
+[Nov 4, 2025![](https://images.prismic.io/paddle/14c59091-98b1-430c-a3be-14a3dbd37225_Paddle-hand-01.png?auto=format%2Ccompress&rect=0%2C0%2C1280%2C629&w=1080&fit=max)Alternative payment methods: why SaaS and app companies need them for growthPaddle](/blog/alternative-payment-methods)[Growth![](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fimage-placeholder.ec7c2ec8.png&w=1920&q=75)The best discounts SaaS companies can run with Paddle](/resources/best-discounts-for-saas-companies-with-paddle)[Dec 8, 2023![](https://images.prismic.io/paddle/a6d0807d-dd78-4180-a4c3-b859e41ce77e_growth_areas.png?auto=format%2Ccompress&fit=max&w=1080)How to become a SaaS outlier in 2024: Accelerating growth with a lean teamEmily Whindus](/blog/accelerating-saas-growth-on-a-lean-team)[Oct 31, 2023![](https://images.prismic.io/paddle/ed696324-d227-4ac6-867f-dfb64d5cc2d9_Customers.png?auto=format%2Ccompress&fit=max&w=1080)Reducing the administrative burden of international SaaS expansion IDC](/blog/idc-reducing-the-administrative-burden-of-international-saas-expansion)[Growth![](https://images.prismic.io/paddle/c64056ae-af69-480b-b4a3-7cb1b2db3fac_Illustration_Generic_Operations_4_bg.png?auto=format%2Ccompress&fit=max&w=1080)Expansion revenue: What is it and how much do you need to be successful?](/resources/expansion-revenue)[Jan 9, 2023![](https://images.prismic.io/paddle/7d4366b0-83fa-4c15-9b84-555d464e56bd_Illustration_Generic_MetricsandPerformance_2_bg.jpg?auto=format%2Ccompress&fit=max&w=1080)Bootstrapping your way to profitability: A conversation with EverSQL Co-founders Chloe Dormand](/blog/bootstrapping-your-way-to-profitability)[Metrics & performance![](https://images.prismic.io/paddle/4a3c01c9-6c3a-40fe-8f97-5b136683dd0e_Illustration_Characters_Dashboardteam_bg.jpg?auto=format%2Ccompress&fit=max&w=1080)Company growth rate: what is it, how to calculate it, & how can it help you grow your business](/resources/company-growth-rate)[Growth![](https://images.prismic.io/paddle/048e08c8-31f8-4b91-b348-359c32cdf150_Illustration_Characters_Dashboardteam_bg+copy.jpg?auto=format%2Ccompress&fit=max&w=1080)Customer acquisition in 2023: Everything you need to know about acquiring new customers](/resources/customer-acquisition)[Growth![](https://images.prismic.io/paddle/7d4366b0-83fa-4c15-9b84-555d464e56bd_Illustration_Generic_MetricsandPerformance_2_bg.jpg?auto=format%2Ccompress&fit=max&w=1080)Revenue enhancement: 5 ways to increase revenue from existing streams](/resources/revenue-enhancement)[Nov 24, 2022![](https://images.prismic.io/paddle/2f316a79-6ab7-49db-a24e-a86cfbf11181_north-star-ada.png?auto=format%2Ccompress&fit=max&w=1080)Six ways to survive a recession (and four ways to win in one)Chloe Dormand](/blog/six-ways-to-survive-a-recession)[Churn & retention![](https://images.prismic.io/paddle/b49a54b0-81bc-4105-bc7f-5ebcbdfcbac9_abstract-filler+2.png?auto=format%2Ccompress&fit=max&w=1080)Reduce customer churn in 5 steps with bullet-proof retention](/resources/reduce-customer-churn)[Growth![](https://images.prismic.io/paddle/fedeb6f7-b6df-40da-9795-6998ddc64d22_abstract-filler+5.png?auto=format%2Ccompress&fit=max&w=1080)Customer acquisition VS. retention: Where are your dollars best spent?](/resources/customer-acquisition-vs-retention)
+
+Load more

@@ -1,0 +1,25 @@
+---
+title: "Apple's 'walled garden' breached, as Spotify, Patreon, and more exercise new freedoms post-court ruling"
+description: "Patreon, Delta, and Spotify are among the first to update their iOS apps, directing users to web-based subscriptions."
+source: "news/industry/apple-app-store-developers-bypass-fees-spotify-delta-patreon.html"
+---
+
+# Apple's 'walled garden' breached, as Spotify, Patreon, and more exercise new freedoms post-court ruling
+
+Author
+
+[Paddle News Desk](/news/industry/author/paddle-news-desk)
+
+Share
+
+[](https://x.com/intent/tweet?text=Apple's%20'walled%20garden'%20breached%2C%20as%20Spotify%2C%20Patreon%2C%20and%20more%20exercise%20new%20freedoms%20post-court%20ruling%20-%20%2Fnews%2Findustry%2Fapple-app-store-developers-bypass-fees-spotify-delta-patreon%20via%20%40paddlehq)[](https://www.facebook.com/sharer/sharer.php?u=%2Fnews%2Findustry%2Fapple-app-store-developers-bypass-fees-spotify-delta-patreon)[](https://www.linkedin.com/shareArticle?mini=true&url=%2Fnews%2Findustry%2Fapple-app-store-developers-bypass-fees-spotify-delta-patreon&title=Apple's%20'walled%20garden'%20breached%2C%20as%20Spotify%2C%20Patreon%2C%20and%20more%20exercise%20new%20freedoms%20post-court%20ruling&source=)
+
+The ramifications of Apple's App Store [court ruling](https://www.documentcloud.org/documents/25924283-epic-v-apple-contempt-order/) are beginning to materialize, unleashing new freedoms for developers and striking at the core of Apple's lucrative "walled garden." Now creator platform Patreon, game emulator [Delta](https://deltaemulator.com/), and streaming giant Spotify are among the first to overhaul their iOS apps, now directing users to web-based subscriptions that sidestep Apple's hefty commissions; the ruling found Apple in "willful violation" of a prior injunction, specifically barring its 27% fee on external links and the use of "scare screens."
+
+**Rapid recalibration:** In early May, Patreon rolled out an [updated app](https://techcrunch.com/2025/05/06/patreons-app-can-now-accept-web-payments-after-u-s-app-store-changes) with a prominent "Join" button for direct web payments via credit card, Venmo, or PayPal, relegating Apple's In-App Purchase option to smaller text. Delta quickly followed, enabling users to join its Patreon for perks like exclusive features directly within the app; its creator [declared](https://mastodon.social/@rileytestut/114467929471303098), "Goodbye scare screens." Spotify also launched an Apple-approved [updated app](https://techcrunch.com/2025/05/02/apple-approves-spotify-app-update-that-allows-u-s-users-to-access-pricing-info-external-payment-links) allowing U.S. users to access pricing and subscribe directly on its website.
+
+**Developer windfall:** Bypassing Apple’s commissions—historically 30% and recently 27% on external links—represents a substantial financial uplift for developers. Patreon, for instance, now offers creators the full value of fan support without Apple taking a cut, a change a [spokesperson called](https://www.theverge.com/news/659754/patreon-update-iphone-ios-app-apple-payment-system-ruling) "a huge moment for creators and their businesses." This newfound flexibility particularly impacts smaller developers, with [RevenueCat data showing](https://www.revenuecat.com/blog/growth/apple-anti-steering-ruling-monetization-strategy/) some reporting 15–20% revenue boosts by redirecting even a small fraction of users.
+
+**Apple's fortress challenged:** The court's decision directly targets Apple's ecosystem control and its $26.6 billion quarterly services revenue, which includes the App Store. Apple "strongly disagrees" with the ruling and [intends to appeal](https://content.next.westlaw.com/Document/Iaa06e7302ba611f08961f275ec6eff2d/View/FullText.html?transitionType=Default&contextData=%28sc.Default%29), even seeking an emergency stay arguing the court overstepped by setting its commission to zero. But the ruling was effective immediately, forcing Apple to update its [U.S. App Store guidelines](https://techcrunch.com/2025/05/02/apple-changes-us-app-store-rules-to-let-apps-redirect-users-to-their-own-websites-for-payments) on May 2.
+
+**Consumer crosscurrents:** While developers celebrate, the changes also promise consumer benefits; [Morgan Stanley estimates](https://www.morningbrew.com/stories/2025/05/10/iphone-apps-change-after-apple-ruling) U.S. users could save $2 billion annually if a third of transactions move externally. Amazon’s [Kindle app](https://techcrunch.com/2025/05/06/amazon-kindles-ios-app-adds-new-get-book-button-following-apple-payments-ruling), for the first time since 2011, now features a "Get Book" button linking to its website, offering another direct purchase avenue. The market now watches how Apple adapts as its App Store policies face sustained legal and competitive pressure.

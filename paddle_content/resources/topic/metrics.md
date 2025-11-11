@@ -1,0 +1,21 @@
+---
+title: "Metrics & performance articles"
+description: "Browse information, inspiration, and insights from Paddle's team and network"
+source: "resources/topic/metrics.html"
+---
+
+# Metrics & performance articles
+
+Live webinar
+
+Find out what’s working and what’s not for app growth, and how to use external payments to capture intent and drive growth in Q5
+
+[Register now](https://www.paddle.com/events/webinars/why-q5-is-the-underrated-opportunity-in-mobile-app-growth?utm_medium=website&utm_source=website-banner&utm_campaign=webinars_fy2025_q4_core_revenuecat_webinar_18nov&utm_content=homepage-banner)
+
+# Metrics & performance
+
+[Announcements](/resources/topic/announcements)[Developers](/resources/topic/developers)[Metrics](/resources/topic/metrics)[Mobile](/resources/topic/mobile)[Payments](/resources/topic/payments)[Product news](/resources/topic/product-news)
+
+[Jul 30, 2025![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report Q2 2025: Recovery takes hold as AI fuels growthPaddle](/blog/saas-market-report-q2-2025)[Apr 30, 2025![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report Q1 2025: Economic uncertainty brings sluggish growthPaddle](/blog/saas-market-report-q1-2025)[Dec 2, 2024![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report for October 2024: B2B & B2C lose momentum for holidaysPaddle](/blog/saas-market-report-october-2024)[Oct 31, 2024![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report for September 2024: SaaS rebounds, poised to surpass growth forecastsPaddle](/blog/saas-market-report-september-2024)[Sep 30, 2024![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report for August 2024: Rate Cuts Boost Outlook After SlowdownPaddle](/blog/saas-market-report-august-2024)[Aug 29, 2024![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report for July 2024: Summer slowdown, rebound anticipatedPaddle](/blog/saas-market-report-july-2024)[Jul 30, 2024![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report for June 2024: How does H1 measure up?Paddle](/blog/saas-market-report-june-2024)[Jun 27, 2024![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report for May 2024: Growth predictions for B2B & B2CPaddle](/blog/saas-market-report-may-2024)[May 28, 2024![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report for April 2024: B2B’s strongest month in over a yearPaddle](/blog/saas-market-report-april-2024)[Apr 23, 2024![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report for March 2024: Growth slows for B2B, while B2C hits a 2-year highPaddle](/blog/saas-market-report-march-2024)[Mar 20, 2024![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report for February 2024: Promising momentum for B2B and B2C Paddle](/blog/saas-market-report-february-2024)[Feb 28, 2024![](https://images.prismic.io/paddle/d0001768-bc59-4735-9605-3751782ebaab_single-source-of-truth.png?auto=format%2Ccompress&fit=max&w=1080)SaaS market report for January 2024: Growth surges backPaddle](/blog/saas-market-report-january-2024)
+
+Load more
